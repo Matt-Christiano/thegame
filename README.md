@@ -1,2 +1,2 @@
-# mpf-game
+# thegame
 test for mission pinball framework
